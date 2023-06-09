@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋I'm Gowri K 
 
-<!--
-**K-Gowri/K-Gowri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌Some information about me :
 
-Here are some ideas to get you started:
+        ◾ I'm currently a student at Avinashilingam University studying computer science and engineering.
+        
+        ◾ Currently studying front-end programming 
+        
+        ◾ I pick things up quickly.
+        
+        ◾ Working on simple tasks at the moment
+📌Link up with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        https://www.linkedin.com/in/gowri-k-625a4b255/
+📌 Languages and Tools :
+
+             >>> HTML
+             
+             >>>CSS
+             
+             >>>Javascript
+             
+             >>>Figma tool
