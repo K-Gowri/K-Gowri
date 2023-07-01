@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Gowri K 
 
-📌Some information about me :
+📌**Some information about me :**
 
         ◾ I'm currently a student at Avinashilingam University studying computer science and engineering.
         
@@ -12,6 +12,8 @@
 📌Link up with me
 
         https://www.linkedin.com/in/gowri-k-625a4b255/
+        https://linktr.ee/Gowri_kalimuthu
+        
 📌 Languages and Tools :
 
              >>> HTML
