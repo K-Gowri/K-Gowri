@@ -8,7 +8,7 @@
         
         ◾ I pick things up quickly.
         
-        ◾ Working on simple tasks at the moment
+        ◾ Working on simple tasks at the moment.
 📌**Link up with me**
 
         https://www.linkedin.com/in/gowri-k-625a4b255/
