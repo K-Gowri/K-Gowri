@@ -1,4 +1,4 @@
-***### Hi there 👋I'm Gowri K ***
+**### Hi there 👋I'm Gowri K **
 
 📌**Some information about me :**
 
