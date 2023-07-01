@@ -1,4 +1,4 @@
-### Hi there 👋I'm Gowri K 
+***### Hi there 👋I'm Gowri K ***
 
 📌**Some information about me :**
 
@@ -9,12 +9,12 @@
         ◾ I pick things up quickly.
         
         ◾ Working on simple tasks at the moment
-📌Link up with me
+📌**Link up with me**
 
         https://www.linkedin.com/in/gowri-k-625a4b255/
         https://linktr.ee/Gowri_kalimuthu
         
-📌 Languages and Tools :
+📌**Languages and Tools :**
 
              >>> HTML
              
