@@ -1,5 +1,5 @@
 <h1 align="center"> Gowri K Here!👋</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=25&pause=1000&color=BBA210&width=435&lines=I'm+Frontend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=25&pause=1000&color=BBA210&width=435&lines=I'm+a+Frontend+Developer" alt="Typing SVG" /></a>
 <p align="center">I enjoy tackling complex coding challenges and finding elegant solutions. I’m constantly ready to learn new things and contribute to innovative initiatives. Front‐end developer with a high level of motivation and adaptability focused to participate in cutting‐edge projects. I’m a student with a strong interest for full stack programming who is driven and aspirational.</p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
